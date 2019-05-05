@@ -94,7 +94,7 @@
             },
             {
               "params": [
-                "mac"
+                "name"
               ],
               "type": "tag"
             },
@@ -209,7 +209,7 @@
             },
             {
               "params": [
-                "mac"
+                "name"
               ],
               "type": "tag"
             },
@@ -324,7 +324,7 @@
             },
             {
               "params": [
-                "mac"
+                "name"
               ],
               "type": "tag"
             },
@@ -439,7 +439,7 @@
             },
             {
               "params": [
-                "mac"
+                "name"
               ],
               "type": "tag"
             },
